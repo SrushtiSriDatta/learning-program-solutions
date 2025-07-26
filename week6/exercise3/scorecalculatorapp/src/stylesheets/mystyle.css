@@ -1,0 +1,15 @@
+.score-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.score-container h1 {
+  color: #2c3e50;
+}
+
+.score-container p {
+  font-size: 18px;
+  color: #34495e;
+  margin: 5px 0;
+}
